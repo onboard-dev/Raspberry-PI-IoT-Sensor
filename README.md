@@ -1,2 +1,2 @@
 # Raspberry-PI-IoT-Sensor
-VSCode連携テスト中
+VSCode連携テスト中2
