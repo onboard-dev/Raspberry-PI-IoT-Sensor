@@ -1,2 +1,2 @@
 # Raspi-IoT-Sensor
-ラズパイZEROを使ったIoTセンサー
+Raspberry-PI-IoT-Sensor
