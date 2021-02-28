@@ -1,5 +1,5 @@
 # IoT sensor using RaspberryPI Zero v1.0
-![](2021-02-28-11-14-23.png)
+![](images/2021-02-28-11-14-23.png)
 ![](https://img.shields.io/twitter/follow/onboardofficial?style=social)
 ## Overview
 - A IoT devices for measuring soil moisture, temperature and humidity and taking fixed-point camera images for gardening
@@ -37,8 +37,8 @@ optional
 
 
 ## Fix PCB
-![](2021-02-28-11-37-45.png)
-![](2021-02-28-11-38-07.png)
+![](images/2021-02-28-11-37-45.png)
+![](images/2021-02-28-11-38-07.png)
 
 ## Misc.
 
