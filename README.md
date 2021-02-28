@@ -40,6 +40,6 @@ optional
 ![](images/2021-02-28-11-37-45.png)
 ![](images/2021-02-28-11-38-07.png)
 
-## Misc.
+## Misc
 
 - [A simulator for constant voltage circuits using Zener diodes](http://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEB2WZIICxgEwGZMA2QgDmRMJAUqQUioFMBaMMAKAJAC8GA7BgE5M8w8OGjIwmPAhwkwATjno4OZsigg80BArxhkeQ4QUIzkZEjxRYkdly15Kcko8phC9az35CReNgB3N3BPEGx3MMg2ARAcZBwtRPjEj3p6FWiAN3A5JLiE-Izw4sxNGAQ2AAdwj1D6TAVI4vTqgtSwtPqxVuDcVzxUvJcoINzXEZS4kldo4KmRvCdp2bGl5xnajdX5wq717ujYiO6TkYz4aIB7cJBCMobIBVckGAgMthuke81MJ5ebBAgZ8tHcHiUFApwOlbPocEhkqCAkA)
