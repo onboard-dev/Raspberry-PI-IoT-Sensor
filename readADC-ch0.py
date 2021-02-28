@@ -1,4 +1,4 @@
-#onboard IoT board
+#onboard IoT board.
 # Capacitive Soil Moisture Sensor v1.2 
 # AliExpress https://bit.ly/3dMIDjD
 from gpiozero import MCP3004,LED
