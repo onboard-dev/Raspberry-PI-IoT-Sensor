@@ -13,7 +13,7 @@
 - Windows 10
 - [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
 
-# Parts
+## Parts
 - R7,R8,R9 10k Resistor 0603
 - R2,R5 1k Resistor  0204V
 - SW1,SW2 TactSwitch B3F-1000
