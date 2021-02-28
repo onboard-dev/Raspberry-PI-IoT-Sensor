@@ -17,13 +17,15 @@
 - R7,R8,R9 10k Resistor 0603
 - R2,R5 1k Resistor  0204V
 - SW1,SW2 TactSwitch B3F-1000
-- ZD1 Zenor 3.0V
-- R6 Resistor 200 0603
+- ZD1 Zener diode [3.0V](https://akizukidenshi.com/catalog/g/gI-07490/)
+- R6 Resistor [200](https://akizukidenshi.com/catalog/g/gR-08526/) 0603
 - R4 Resistor 100 0204V
 - R3 Resistor 1.5k 0204V
 - R1 Resistor 1k 0204V
 - MCP3004
 - BZ1 Buzzer
+- NTC [NCP18XH103F03RB](https://akizukidenshi.com/catalog/g/gP-05252/)
+- 
 
     0204 through hole 0.25W short-type Resistor
 
